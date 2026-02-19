@@ -2,6 +2,9 @@
 
 int main()
 {
+  int t;
   printf("Hello World");
+  printf("TB");
+  scanf("%d", t);
   printf("QuintenG");
 }
